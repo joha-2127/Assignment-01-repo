@@ -11,9 +11,10 @@
 
 .signup-btn {
   font-family: "Raleway", sans-serif;
-  color: #4e47ff;
+  background-color: #4e47ff;
+  color: #ffffff;
   border: none;
-  padding: 10px 20px;
+  padding: 10px 50px;
   border-radius: 8px;
   font-weight: 600;
   cursor: pointer;
@@ -39,6 +40,7 @@
   flex-direction: column;
   justify-content: space-between;
   padding: 40px;
+  gap: 35px;
 }
 
 .logo {
@@ -48,12 +50,13 @@
   font-weight: bold;
 }
 .focus-btn {
+  font-family: "Raleway", sans-serif;
   background-color: #4e47ff;
   color: #ffffff;
   border: none;
-  padding: 12px 24px;
-  border-radius: 8px;
+  padding: 22px 74px;
+  border-radius: 14px;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 24px;
   cursor: pointer;
 }
